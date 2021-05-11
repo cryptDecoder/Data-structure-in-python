@@ -1,5 +1,5 @@
-<h1>Introduction to Data Structure in Python</h1>
-<h2>What is an algorithm?</h2>
+<h1 style="color:#6495ED">Introduction to Data Structure in Python</h1>
+<h2 style="color:#FF5733">What is an algorithm?</h2>
 <p>An algorithm in a set of instructions in sequence used to solve the problems</p>
 
 ---
@@ -19,7 +19,7 @@ Example of Algorithm
 
 ---
 
-### Solving algorithm using python program
+<h3 style="color:#40E0D0">Solving algorithm using python program</h3>
 
 ```
 # this is example for addition of two numbers
