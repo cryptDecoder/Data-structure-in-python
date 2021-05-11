@@ -33,3 +33,14 @@ if __name__ == '__main__':
     print(add(x, y))
 
 ```
+
+----
+<h3>Asymptotic Analysis: Big-O Notation and More</h3>
+<p>Asymptotic notations are the mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
+
+For example: In bubble sort, when the input array is already sorted, the time taken by the algorithm is linear i.e. the best case.</p>
+<p>There are mainly three asymptotic notations:<br>
+Big-O notation<br>
+Omega notation<br>
+Theta notation
+</p>
