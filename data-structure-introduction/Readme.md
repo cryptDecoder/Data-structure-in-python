@@ -1,5 +1,5 @@
 <h1 style="color:#6495ED">Introduction to Data Structure in Python</h1>
-<img src="data-structure-introduction/assets/Capture.PNG" alt="Banner">
+<img src="https://github.com/cryptDecoder/Data-structure-in-python/blob/master/data-structure-introduction/assets/Capture.PNG" alt="Banner">
 <h2 style="color:#FF5733">What is an algorithm?</h2>
 <p>An algorithm in a set of instructions in sequence used to solve the problems</p>
 
