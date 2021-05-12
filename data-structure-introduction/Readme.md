@@ -38,9 +38,21 @@ if __name__ == '__main__':
 <h3>Asymptotic Analysis: Big-O Notation and More</h3>
 <p>Asymptotic notations are the mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
 
-For example: In bubble sort, when the input array is already sorted, the time taken by the algorithm is linear i.e. the best case.</p>
+For example: In bubble sort, when the input array is already sorted, the time taken by the algorithm is linear i.e. the
+best case.</p>
 <p>There are mainly three asymptotic notations:<br>
 Big-O notation<br>
 Omega notation<br>
 Theta notation
 </p>
+<h2 style="color:#fff">Big-O Notation (O-notation)</h2>
+<p>
+    Big O notation represent the upper bound of the running time of an algorithm, thus it 
+    gives worst-case complexity of an algorithm.
+</p> <br>
+
+```
+O(g(n)) = { f(n): there exist positive constants c and n0
+            such that 0 ≤ f(n) ≤ cg(n) for all n ≥ n0 }
+
+```
